@@ -57,29 +57,6 @@ phishing-email-detection/
 ```
 
 
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/phishing-email-detection.git
-cd phishing-email-detection
-pip install -r requirements.txt
-
-
-## ▶️ Usage
-
-```bash
-python model.py
-
-
-Or open and run the Jupyter Notebook:
-
-```bash
-jupyter notebook
-
-
-
-
 ## 🧠 Model Workflow
 
 1. Load the dataset
@@ -112,22 +89,5 @@ The model successfully learns patterns in phishing emails and achieves strong cl
 * Real-time email scanning
 
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-
-## 🙋‍♀️ Author
-
-**Your Name**
-GitHub: [@yourusername](https://github.com/yourusername)
-
-
-
-⭐ If you find this project useful, please give it a star!
 
